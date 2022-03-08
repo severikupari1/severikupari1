@@ -4,6 +4,8 @@
 | Sähköposti: | severi.kupari@ambientia.fi |
 | Kuvaus |     |
 |     | Olen tietotekniikka insinööriksi valmistunut nuori mies, joka harrastaa koodaamista  <br>myös vapaa-ajallaan. Nautin työskennellä asiakaslähtöisesti kuuntelemalla heidän tarpeitaan ottaen huomioon tekniikan tuomat avut.   <br>Pelaan lentopalloa suomen toiseksi korkeimmalla tasolla ja joukkueurheilussa  <br>voitetaan ja hävitään yhdessä, ja sen myötä tiimityöskentely on vahvuuksiani.  <br>Nautin harjoitella koodausta omien projektieni avulla, joissa olen hyödyntänyt paljon  <br>Youtubesta löytyviä opettavaisia videoita. Teen päivätyöni ohella erilaisia sivuja ja sovelluksia yritykseni kautta. |
+| Työskentely Ambientialla  |     |
+| 2021 alkaen | Software Developer |
 | Aiempi työkokemus |     |
 | 2021 alkaen | Kupari Severi Tapani, Yksityisyrittäjä, Ohjelmistojen suunnittelu ja valmistus |
 | 2020-2021 | Ropo Capital Oy, Software Developer |
