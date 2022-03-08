@@ -1,3 +1,28 @@
+  
+
+|     |     |
+| --- | --- |  
+| #### Curriculum Vitae<br><br>#### 11.5.2021 |     |
+| Name | Severi Kupari |
+| Employment at Ambientia |     |
+| 2021 - | Software Developer |
+| Previous employers |     |
+| 2021 - | Kupari Severi Tapani, Self Employed, Software Design and Manufacturing |
+| 2020-2021 | Ropo Capital Oy, Software Developer |
+| 2019-2020 | Ropo Capital Oy, Junior Developer |
+| 2018-2019 | Ropo Capital Oy, Developer Trainee |
+| Programming skills |     |
+|     | PHP, Java, Typescript, Javascript,  HTML5/CSS3, Bs4, Bulma, JSON, XML, GraphQL |
+| Technologies |     |
+|     | React, GatsbyJs, GraphQL, AWS lambda, docker, serverless, Spring, Node.js,  REST/JSON, MySQL and NoSql databases |
+| Platforms |     |
+|     | AWS, Bamboo, Github Actions, Netlify cms |
+| Education |     |
+| 2017-2020 | Savonia University of Applied Sciences, Information Technology Engineer |
+| Languages |     |
+|     | Finnish |
+|     | English |
+
 |     |     |
 | --- | --- | 
 | Nimi | Severi Kupari |
