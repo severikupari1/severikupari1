@@ -1,4 +1,3 @@
-##  T I E T O J A
 Olen tietotekniikka insinööriksi valmistunut nuori mies, joka harrastaa koodaamista
 myös vapaa-ajallaan.
 Pelasin lentopalloa suomen toiseksi korkeimmalla tasolla ja joukkueurheilussa
