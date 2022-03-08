@@ -2,7 +2,6 @@
 
 |     |     |
 | --- | --- |  
-| #### Curriculum Vitae<br><br>#### 11.5.2021 |     |
 | Name | Severi Kupari |
 | Employment at Ambientia |     |
 | 2021 - | Software Developer |
